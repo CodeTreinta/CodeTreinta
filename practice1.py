@@ -1,4 +1,5 @@
 # based on practice from https://www.youtube.com/watch?v=XdJAF_InNGA
+# first try on machine learning
 
 from sklearn import datasets
 from sklearn import tree
